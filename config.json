@@ -1,0 +1,17 @@
+{
+  "api_base": "http://localhost:1234/v1",
+  "api_key": "lm-studio",
+  "model": "local-model",
+  "prompt_role_a": "你是一個嚴格的分析專家。請閱讀以下內容並嚴格輸出 JSON 格式。無論語言為何，請全部使用繁體中文。",
+  "prompt_role_b": "你是一個嚴格的分析專家。請結合附加檔案內文，更新初步分析結果。全部使用繁體中文。",
+  "categories": [
+    "Tech_Transformation",
+    "ESG_Sustainability",
+    "Professional_Credentials",
+    "Gov_Funded_Projects",
+    "Extension_Community",
+    "Marketing_Operations",
+    "Unclassified_Needs_Review",
+    "Noise_Trash"
+  ]
+}
